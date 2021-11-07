@@ -12,8 +12,8 @@
 #include <ArduinoOTA.h>
 
 // Replace with your network credentials
-const char* ssid = "TPLINK";
-const char* password = "23Jan1990";
+const char* ssid = "****";
+const char* password = "*****";
 
 WiFiManager wifiManager;
 WiFiServer server(80);// Set port to 80
